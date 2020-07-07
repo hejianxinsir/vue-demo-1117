@@ -1,4 +1,4 @@
 
 module.exports = {
-  publicPath: '/dist'
+  publicPath: '/vue-demo-1117/dist'
 }
